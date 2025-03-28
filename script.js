@@ -19,7 +19,7 @@ function tinhTien() {
     }
 
     // Quy đổi cân nặng sang chỉ (100 = 1 chỉ)
-    let chi = weight / 100;
+    let chi = weight ;
 
     // Tính giá bán ra theo loại vàng
     let sellPrice;
